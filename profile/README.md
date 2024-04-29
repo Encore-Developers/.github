@@ -2,6 +2,8 @@
 
 A group of developers, graphic designers, and other contributors for Encore Raylib and Encore Unity.
 
+[Official Discord](https://discord.gg/wVUDH26y5N)
+
 Contributors:
 
 - [NarrikSynthfox](https://github.com/NarrikSynthfox)
