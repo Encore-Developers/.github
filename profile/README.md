@@ -7,7 +7,7 @@ A group of developers, graphic designers, and other contributors for Encore Rayl
 Contributors:
 
 - [NarrikSynthfox](https://github.com/NarrikSynthfox)
-- [marie0llie](https://github.com/marie0llie)
+- [3drosalia](https://github.com/3drosalia)
 - [AveryMadness](https://github.com/AveryMadness)
 - [u4pak](https://github.com/u4pak)
 - [McMistrzYT](https://github.com/McMistrzYT)
