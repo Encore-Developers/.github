@@ -8,6 +8,7 @@ Contributors:
 
 - [NarrikSynthfox](https://github.com/NarrikSynthfox)
 - [3drosalia](https://github.com/3drosalia)
+- [kimicake](https://github.com/kimicake)
 - [AveryMadness](https://github.com/AveryMadness)
 - [u4pak](https://github.com/u4pak)
 - [McMistrzYT](https://github.com/McMistrzYT)
